@@ -18,17 +18,17 @@
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@vue/babel-preset-app": "^3.10.0",
-    "@vue/cli-plugin-babel": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "autoprefixer": "^9.6.1",
     "fibers": "^3.1.1",
     "sass": "^1.16.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
+    "stylus-loader": "^7.1.0",
     "vue-cli-plugin-vuetify": "^0.4.6",
     "vue-template-compiler": "^2.5.21",
-    "vuetify-loader": "^1.0.5",
+    "vuetify-loader": "^1.9.2",
     "webpack": "4.35.2"
   }
 }
